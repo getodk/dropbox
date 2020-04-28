@@ -1,9 +1,5 @@
 # dropbox
 
-This project is __*Unsupported*__
+This project is not actively maintained. It is archived here for reference purposes.
 
-It is preserved here for reference purposes.
-
-If you wish to actively maintain or develop it, please contact the ODK team.
-
-The Google group for software engineering questions is: [opendatakit-developers@](https://groups.google.com/forum/#!forum/opendatakit-developers)
+If you wish to maintain it, please contact the ODK team at https://getodk.org.
